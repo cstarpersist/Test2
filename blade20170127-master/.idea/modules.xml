@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blade-beetl/blade-beetl.iml" filepath="$PROJECT_DIR$/blade-beetl/blade-beetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-cache/blade-cache.iml" filepath="$PROJECT_DIR$/blade-cache/blade-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-core/blade-core.iml" filepath="$PROJECT_DIR$/blade-core/blade-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-jetbrick/blade-jetbrick.iml" filepath="$PROJECT_DIR$/blade-jetbrick/blade-jetbrick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-kit/blade-kit.iml" filepath="$PROJECT_DIR$/blade-kit/blade-kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-redis/blade-redis.iml" filepath="$PROJECT_DIR$/blade-redis/blade-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-root.iml" filepath="$PROJECT_DIR$/blade-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-sql2o/blade-sql2o.iml" filepath="$PROJECT_DIR$/blade-sql2o/blade-sql2o.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-velocity/blade-velocity.iml" filepath="$PROJECT_DIR$/blade-velocity/blade-velocity.iml" />
+    </modules>
+  </component>
+</project>

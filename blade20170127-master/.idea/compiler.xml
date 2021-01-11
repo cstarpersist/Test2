@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="blade-redis" />
+        <module name="blade-beetl" />
+        <module name="blade-sql2o" />
+        <module name="blade-cache" />
+        <module name="blade-jetbrick" />
+        <module name="blade-core" />
+        <module name="blade-velocity" />
+        <module name="blade-kit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blade-beetl" target="1.6" />
+      <module name="blade-cache" target="1.6" />
+      <module name="blade-core" target="1.6" />
+      <module name="blade-jetbrick" target="1.6" />
+      <module name="blade-kit" target="1.6" />
+      <module name="blade-redis" target="1.6" />
+      <module name="blade-root" target="1.6" />
+      <module name="blade-sql2o" target="1.6" />
+      <module name="blade-velocity" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
